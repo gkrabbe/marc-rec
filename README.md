@@ -1,3 +1,9 @@
+## handRecognition
+reconhecimento de mão
+
+## master recognition
+reconhecimento de pessoas e outros
+
 ## opencv_createsamples 
 
 Cria amostras positivas de uma única imagem de objeto ou coleção de imagens positivas. O esquema de criação de amostras de teste é semelhante ao treinamento de criação de amostras, pois cada amostra de teste é uma imagem de fundo na qual uma distorção aleatória e escala aleatória. A instância da imagem do objeto é colada em uma posição aleatória.
